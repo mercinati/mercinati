@@ -4,7 +4,7 @@ Hi I’m Karan Gupta, a Software Engineer with hands-on experience in building s
 
 I enjoy designing RESTful APIs, implementing authentication & authorization (JWT), and working with clean, layered architectures (MVC, OOP). I’ve built full-stack projects using Spring Boot, Node, React, MongoDB, and modern frontend tooling.<br>
 
-💡 **Key interests:**<br>
+💡 **Key interests:**
 - Backend development<br>
 - Data Structures & Algorithms (90+ LeetCode problems)<br>
 - API security, performance, and clean code practices<br>
