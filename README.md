@@ -7,9 +7,8 @@ I enjoy designing RESTful APIs, implementing authentication & authorization (JWT
 💡 **Key interests:**<br>
 - Backend development<br>
 - Data Structures & Algorithms (90+ LeetCode problems)<br>
-- I'm looking for help with Generative AI<br>
 - API security, performance, and clean code practices<br>
-- Exploring AI-driven development & automation<br>
+- Exploring AI-driven development<br>
 
 📌 Currently pursuing MCA and actively building real-world projects.<br>
 🚀 Open to backend / frontend / full-stack developer opportunities.<br>
