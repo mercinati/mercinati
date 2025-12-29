@@ -1,15 +1,15 @@
 # 👋 About Me:
 
-Hi I’m Karan Gupta, a Software Engineer with hands-on experience in building secure and scalable web applications using Java (Spring Boot) and Node.js/Express.<br><br>
+Hi I’m Karan Gupta, a Software Engineer with hands-on experience in building secure and scalable web applications using Java (Spring Boot) and Node.js/Express.<br>
 
-I enjoy designing RESTful APIs, implementing authentication & authorization (JWT), and working with clean, layered architectures (MVC, OOP). I’ve built full-stack projects using Spring Boot, Node, React, MongoDB, and modern frontend tooling.<br><br>
+I enjoy designing RESTful APIs, implementing authentication & authorization (JWT), and working with clean, layered architectures (MVC, OOP). I’ve built full-stack projects using Spring Boot, Node, React, MongoDB, and modern frontend tooling.<br>
 
 💡 **Key interests:**<br>
 - Backend development<br>
 - Data Structures & Algorithms (90+ LeetCode problems)<br>
 - I'm looking for help with Generative AI<br>
 - API security, performance, and clean code practices<br>
-- Exploring AI-driven development & automation<br><br>
+- Exploring AI-driven development & automation<br>
 
 📌 Currently pursuing MCA and actively building real-world projects.<br>
 🚀 Open to backend / frontend / full-stack developer opportunities.<br>
